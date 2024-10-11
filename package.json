@@ -1,0 +1,15 @@
+{
+  "name": "classificacao-de-heroi-dio",
+  "version": "1.0.0",
+  "description": "projeto-para-dio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "classificacao-de-heroi-dio"
+  },
+  "author": "DeivRicardoSS",
+  "license": "ISC"
+}
